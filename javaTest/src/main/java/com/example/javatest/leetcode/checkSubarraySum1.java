@@ -1,5 +1,8 @@
 package com.example.javatest.leetcode;
 
+import java.util.Collections;
+import java.util.Comparator;
+
 public class checkSubarraySum1 {
 
     public boolean checkSubarraySum(int[] nums, int k) {
